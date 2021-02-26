@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [FiveM](https://github.com/citizenfx/fivem)
 
-- 📫 How to reach me **pk#5460 on Discord**
+- 📫 Contact me at Discord (pk#5460)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
