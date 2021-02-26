@@ -7,9 +7,9 @@
 
 - 📫 You can find me on Discord (pk#5460)
 
-<h3 align="left">Entre no meu servidor:</h3>
+<h3 align="left">Meet me at:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/793337731072655371/793337946811662336/og-logo.gif" alt="https://discord.gg/PS9GMTzW6b" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/793337731072655371/793337946811662336/og-logo.gif" alt="https://discord.gg/PS9GMTzW6b" height="60" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
