@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lucas Silva</h1>
+<h1 align="center">Hey! I'm Lucas 🥳</h1>
 <h3 align="center">A junior developer in search of knowledge.</h3>
 
-- 🔭 I’m currently working on [Og Roleplay](https://discord.gg/PS9GMTzW6b)
+- 💻 I’m currently working on [Og Roleplay](https://discord.gg/PS9GMTzW6b)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌎 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on [FiveM](https://github.com/citizenfx/fivem)
+- 📫 You can find me on Discord (pk#5460)
 
-- 📫 Contact me at Discord (pk#5460)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre no meu servidor:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/PS9GMTzW6b" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/793337731072655371/814904663097999391/background.png" alt="https://discord.gg/PS9GMTzW6b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
