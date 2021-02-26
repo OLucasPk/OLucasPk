@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
 <h3 align="center">A junior developer in search of knowledge.</h3>
 
-- 🔭 I’m currently working on **Og Roleplay | Smash PvP**
+- 🔭 I’m currently working on **Og Roleplay**
 
 - 🌱 I’m currently learning **TypeScript**
 
