@@ -9,7 +9,7 @@
 
 <h3 align="left">Entre no meu servidor:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/793337731072655371/814904663097999391/background.png" alt="https://discord.gg/PS9GMTzW6b" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/PS9GMTzW6b" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/793337731072655371/793337946811662336/og-logo.gif" alt="https://discord.gg/PS9GMTzW6b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
