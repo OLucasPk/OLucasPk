@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Og Roleplay**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on [FiveM](https://github.com/citizenfx/fivem)
 
