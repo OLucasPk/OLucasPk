@@ -1,7 +1,7 @@
 ### Hey! I'm Lucas 🥳
 A junior developer in search of knowledge.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ogreinreal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmgrein&screen_name=oLucass11)
+[![Twitter Follow](https://img.shields.io/twitter/follow/oLucass11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmgrein&screen_name=oLucass11)
 
 - 💻 I’m currently working on [Vilão PvP](https://discord.gg/vilaopvp)
 
