@@ -8,7 +8,7 @@ A junior developer in search of knowledge.
 - 🌎 I’m currently learning **Typescript**
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/BmQLGzdj1XcAl8vA)
+[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/uBOFGWTcCk3hRsgmKFIg)
 
 
 <h3 align="left">Languages and Tools:</h3>
