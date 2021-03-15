@@ -1,7 +1,7 @@
-<h1 align="center">Hey! I'm Lucas 🥳</h1>
-<h3 align="center">A junior developer in search of knowledge.</h3>
+### Hey! I'm Lucas 🥳
+A junior developer in search of knowledge.
 
-- 💻 I’m currently working on [Og Roleplay](https://discord.gg/PS9GMTzW6b)
+- 💻 I’m currently working on [Vilão PvP](https://discord.gg/vilaopvp)
 
 - 🌎 I’m currently learning **Typescript**
 
