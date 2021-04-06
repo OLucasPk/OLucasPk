@@ -9,4 +9,4 @@ A junior developer in search of knowledge.
 
 <br />
 
-![Pk's GitHub stats](https://github-readme-stats.vercel.app/api?username=olucaspk&show_icons=true&theme=dark) <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucaspk&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Pk's GitHub stats](https://github-readme-stats.vercel.app/api?username=olucaspk&show_icons=true&theme=dark) <br /><br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucaspk&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
